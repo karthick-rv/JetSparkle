@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetSparkle</string>
+    <string name="paging_route">Paging</string>
+    <string name="work_manager_route">Work</string>
+    <string name="download_manager_route">Down</string>
+    <string name="media_route">Media</string>
+    <string name="animation_route">Anime</string>
+</resources>
